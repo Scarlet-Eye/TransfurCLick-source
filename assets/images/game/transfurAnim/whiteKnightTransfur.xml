@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whiteKnightTransfur.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whiteKnight0000" x="0" y="0" width="400" height="415"/>
+	<SubTexture name="whiteKnight0001" x="400" y="0" width="400" height="415"/>
+	<SubTexture name="whiteKnight0002" x="800" y="0" width="400" height="415"/>
+	<SubTexture name="whiteKnight0003" x="1200" y="0" width="400" height="415"/>
+	<SubTexture name="whiteKnight0004" x="1600" y="0" width="400" height="415"/>
+	<SubTexture name="whiteKnight0005" x="0" y="415" width="400" height="415"/>
+	<SubTexture name="whiteKnight0006" x="400" y="415" width="400" height="415"/>
+	<SubTexture name="whiteKnight0007" x="800" y="415" width="400" height="415"/>
+</TextureAtlas>

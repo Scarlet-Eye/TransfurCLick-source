@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="colinInWater.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="colinInWater" x="0" y="0" width="128" height="220"/>
+	<SubTexture name="colinInWater0001" x="128" y="0" width="128" height="220"/>
+	<SubTexture name="colinInWater0002" x="256" y="0" width="128" height="220"/>
+</TextureAtlas>
