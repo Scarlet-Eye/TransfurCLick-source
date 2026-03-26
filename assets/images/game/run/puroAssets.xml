@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="puroAssets.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="puroDown0000" x="0" y="0" width="121" height="151"/>
+	<SubTexture name="puroDown0001" x="121" y="0" width="121" height="151"/>
+	<SubTexture name="puroDown0002" x="242" y="0" width="121" height="151"/>
+	<SubTexture name="puroLeft0000" x="363" y="0" width="121" height="151"/>
+	<SubTexture name="puroLeft0001" x="0" y="151" width="121" height="151"/>
+	<SubTexture name="puroLeft0002" x="121" y="151" width="121" height="151"/>
+	<SubTexture name="puroRight0000" x="242" y="151" width="121" height="151"/>
+	<SubTexture name="puroRight0001" x="363" y="151" width="121" height="151"/>
+	<SubTexture name="puroRight0002" x="0" y="302" width="121" height="151"/>
+	<SubTexture name="puroUp0000" x="121" y="302" width="121" height="151"/>
+	<SubTexture name="puroUp0001" x="242" y="302" width="121" height="151"/>
+	<SubTexture name="puroUp0002" x="363" y="302" width="121" height="151"/>
+</TextureAtlas>

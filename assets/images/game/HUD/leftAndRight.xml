@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="leftAndRight.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="leftAndRight0000" x="0" y="0" width="220" height="113"/>
+	<SubTexture name="leftAndRight0001" x="0" y="113" width="220" height="113"/>
+</TextureAtlas>

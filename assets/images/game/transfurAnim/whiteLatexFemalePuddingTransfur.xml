@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whiteLatexFemalePuddingTransfur.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="colinLightLatexFemaleTransfur0000" x="0" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0001" x="290" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0002" x="580" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0003" x="870" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0004" x="1160" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0005" x="1450" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0006" x="1740" y="0" width="290" height="385"/>
+	<SubTexture name="colinLightLatexFemaleTransfur0007" x="0" y="385" width="290" height="385"/>
+</TextureAtlas>

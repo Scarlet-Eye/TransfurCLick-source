@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pureWhite1Assets.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pureWhiteDown0000" x="0" y="0" width="90" height="128"/>
+	<SubTexture name="pureWhiteDown0001" x="90" y="0" width="90" height="128"/>
+	<SubTexture name="pureWhiteDown0002" x="180" y="0" width="90" height="128"/>
+	<SubTexture name="pureWhiteLeft0000" x="270" y="0" width="90" height="128"/>
+	<SubTexture name="pureWhiteLeft0001" x="360" y="0" width="90" height="128"/>
+	<SubTexture name="pureWhiteLeft0002" x="0" y="128" width="90" height="128"/>
+	<SubTexture name="pureWhiteRight0000" x="90" y="128" width="90" height="128"/>
+	<SubTexture name="pureWhiteRight0001" x="180" y="128" width="90" height="128"/>
+	<SubTexture name="pureWhiteRight0002" x="270" y="128" width="90" height="128"/>
+	<SubTexture name="pureWhiteUp0000" x="360" y="128" width="90" height="128"/>
+	<SubTexture name="pureWhiteUp0001" x="0" y="256" width="90" height="128"/>
+	<SubTexture name="pureWhiteUp0002" x="90" y="256" width="90" height="128"/>
+</TextureAtlas>

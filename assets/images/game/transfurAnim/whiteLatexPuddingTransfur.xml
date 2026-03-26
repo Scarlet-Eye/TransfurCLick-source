@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="whiteLatexPuddingTransfur.png">
+	<!-- Created with Adobe Animate version 22.0.4.185 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="whiteLatexPudding0000" x="0" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0001" x="300" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0002" x="600" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0003" x="900" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0004" x="1200" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0005" x="1500" y="0" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0006" x="0" y="385" width="300" height="385"/>
+	<SubTexture name="whiteLatexPudding0007" x="300" y="385" width="300" height="385"/>
+</TextureAtlas>

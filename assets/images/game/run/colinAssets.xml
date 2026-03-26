@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="colinAssets.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="colinDown0000" x="0" y="0" width="60" height="128"/>
+	<SubTexture name="colinDown0001" x="60" y="0" width="60" height="128"/>
+	<SubTexture name="colinDown0002" x="120" y="0" width="60" height="128"/>
+	<SubTexture name="colinLeft0000" x="180" y="0" width="60" height="128"/>
+	<SubTexture name="colinLeft0001" x="240" y="0" width="60" height="128"/>
+	<SubTexture name="colinLeft0002" x="300" y="0" width="60" height="128"/>
+	<SubTexture name="colinRight0000" x="360" y="0" width="60" height="128"/>
+	<SubTexture name="colinRight0001" x="420" y="0" width="60" height="128"/>
+	<SubTexture name="colinRight0002" x="0" y="128" width="60" height="128"/>
+	<SubTexture name="colinUp0000" x="60" y="128" width="60" height="128"/>
+	<SubTexture name="colinUp0001" x="120" y="128" width="60" height="128"/>
+	<SubTexture name="colinUp0002" x="180" y="128" width="60" height="128"/>
+</TextureAtlas>
