@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="haxeFlixelLogoAnimated.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="logoHF0000" x="0" y="0" width="100" height="149"/>
+	<SubTexture name="logoHF0001" x="100" y="0" width="100" height="149"/>
+	<SubTexture name="logoHF0002" x="200" y="0" width="100" height="149"/>
+	<SubTexture name="logoHF0003" x="300" y="0" width="100" height="149"/>
+	<SubTexture name="logoHF0004" x="400" y="0" width="100" height="149"/>
+	<SubTexture name="logoHF0005" x="0" y="149" width="100" height="149"/>
+</TextureAtlas>
